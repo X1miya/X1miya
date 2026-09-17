@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- Top Cyber-Chemistry Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:001F3F,25:0074D9,50:00F2FE,75:7F00FF,100:000C20&height=240&section=header&text=X1miya%20%7C%20Химия&fontSize=52&fontAlignY=36&desc=🧪%20Chemistry%20is%20the%20best%20science!%20•%20Founder%20of%20X1miyaStudio&descAlignY=62&descAlign=50" width="100%" alt="X1miya Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D2FF,100:7928CA&height=240&section=header&text=X1miya%20%7C%20%D0%A5%D0%B8%D0%BC%D0%B8%D1%8F&fontSize=52&fontAlignY=36&desc=%F0%9F%A7%AA%20Chemistry%20is%20the%20best%20science!%20%E2%80%A2%20Founder%20of%20X1miyaStudio&descAlignY=62&descAlign=50" width="100%" alt="X1miya Banner" />
 
 <!-- Dynamic Animated Typing Text -->
-<a href="https://www.youtube.com/@X1miya">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=🧪+Chemistry+is+the+best+science!;⚡+Founder+%26+Lead+Architect+@+X1miyaStudio;🎮+Advanced+Minecraft+Datapacks+%26+Maps;🐍+Python+Backend+%26+Telegram+Bots;🎬+YouTube+Creator+•+«КБ+с+нуля»+%26+Science+Life" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Chemistry+is+the+best+science%21;Founder+%26+Lead+Architect+%40+X1miyaStudio;Advanced+Minecraft+Datapacks+%26+Maps;Python+Backend+%26+Telegram+Bots;YouTube+Creator+%40X1miya" alt="Typing Headline" />
 
 <br/>
 
@@ -182,5 +180,5 @@
 
 <div align="center">
 <!-- Bottom Gradient Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000C20,25:7F00FF,50:00F2FE,75:0074D9,100:001F3F&height=110&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:00D2FF,100:0D1117&height=110&section=footer" width="100%" alt="Footer Wave" />
 </div>
