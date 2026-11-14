@@ -10,17 +10,26 @@
 
 <!-- Laboratory Communication Dock -->
 <p align="center">
+  <a href="https://github.com/X1miyaStudio" target="_blank">
+    <img src="https://img.shields.io/badge/Studio-X1miyaStudio-%23062E1A.svg?style=for-the-badge&logo=github&logoColor=00FF88" alt="X1miyaStudio" />
+  </a>
   <a href="https://www.youtube.com/@X1miya" target="_blank">
     <img src="https://img.shields.io/badge/YouTube_Lab-%23062E1A.svg?style=for-the-badge&logo=youtube&logoColor=00FF88" alt="YouTube" />
   </a>
   <a href="https://t.me/Chemistry_LaboratoryX" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram_Channel-%23062E1A.svg?style=for-the-badge&logo=telegram&logoColor=00FF88" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram_Lab-%23062E1A.svg?style=for-the-badge&logo=telegram&logoColor=00FF88" alt="Telegram Lab" />
+  </a>
+  <a href="https://t.me/X1miyaStudio" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Studio-%23062E1A.svg?style=for-the-badge&logo=telegram&logoColor=00FF88" alt="Telegram Studio" />
   </a>
   <a href="https://discord.gg/heDhMS8sjR" target="_blank">
     <img src="https://img.shields.io/badge/Discord_Station-%23062E1A.svg?style=for-the-badge&logo=discord&logoColor=00FF88" alt="Discord" />
   </a>
   <a href="https://modrinth.com/user/X1miya" target="_blank">
     <img src="https://img.shields.io/badge/Modrinth_Lab-%23062E1A.svg?style=for-the-badge&logo=modrinth&logoColor=00FF88" alt="Modrinth" />
+  </a>
+  <a href="https://www.curseforge.com/members/x1miyastudio/projects" target="_blank">
+    <img src="https://img.shields.io/badge/CurseForge_Studio-%23062E1A.svg?style=for-the-badge&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
   </a>
   <a href="https://www.tiktok.com/@X1miyaX" target="_blank">
     <img src="https://img.shields.io/badge/TikTok_Shorts-%23062E1A.svg?style=for-the-badge&logo=tiktok&logoColor=00FF88" alt="TikTok" />
@@ -35,15 +44,15 @@
 
 ```yaml
 ┌────────────────────────────────────────────────────────────────────────┐
-│  🧪 [LABORATORY_CORE_v2.8] :: BIO-CHEMICAL TERMINAL                    │
+│  🧪 [LABORATORY_CORE_v3.0] :: BIO-CHEMICAL TERMINAL                    │
 ├────────────────────────────────────────────────────────────────────────┤
 │  OPERATOR    : X1miya (Химия)                                          │
 │  FACILITY    : X1miyaStudio ⚡                                          │
 │  CREED       : "Chemistry is the best science!" ⚗️                      │
-│  REAGENTS    : [Minecraft Java Engine, NBT Logic, Python 3.12, SQLite]  │
-│  SYNTHESIS   : [Lactose Intolerance, Visual 3D Drops, Explosion Fuses] │
-│  UNIVERSE    : Science Life — Мультивселенная Наук 🌌                  │
-│  STATUS      : 🟢 REACTION STABLE // SYNTHESIZING NEW MECHANICS         │
+│  REAGENTS    : [Minecraft 1.20.5–26.3+, NBT/Components, Python 3.12]   │
+│  SYNTHESIS   : [Lactose v2, Visual Drops v2, Explosion Item v2, Maps]  │
+│  UNIVERSE    : X1miyaStudio · Science Life — Мультивселенная Наук 🌌   │
+│  STATUS      : 🟢 REACTION STABLE // EN+RU MODRINTH & CURSEFORGE LIVE  │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -56,40 +65,64 @@
     <td width="50%" valign="top">
       <h3 align="center">🥛 COMPOUND #01: Lactose Intolerance</h3>
       <p align="center">
+        <a href="https://github.com/X1miyaStudio/Lactose">
+          <img src="https://img.shields.io/badge/GitHub-Repo-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
+        </a>
         <a href="https://modrinth.com/datapack/lactose-intolerance">
-          <img src="https://img.shields.io/badge/Modrinth-Compound_%2301-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Lactose" />
+          <img src="https://img.shields.io/badge/Modrinth-EN_%2B_RU-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Modrinth" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/lactose-digestion-milk-survival-mechanics">
+          <img src="https://img.shields.io/badge/CurseForge-v2.0.1-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Полноценная система непереносимости лактозы: биохимические реакции организма, фазы адаптации, безлактозный крафт и детальная статистика.</p>
+      <p>Система непереносимости лактозы (<code>v2.0.1</code>, 1.20.5–26.3+ / legacy 1.16.5–1.20.4): физиологические реакции, адаптация, безлактозный крафт и ветка достижений (EN + RU).</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✨ COMPOUND #02: Visual Drops & Cosmetics</h3>
       <p align="center">
+        <a href="https://github.com/X1miyaStudio/Visual-Drops-and-Cosmetics">
+          <img src="https://img.shields.io/badge/GitHub-Repo-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
+        </a>
         <a href="https://modrinth.com/datapack/visual-drops-and-cosmetics">
-          <img src="https://img.shields.io/badge/Modrinth-Compound_%2302-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Visual Drops" />
+          <img src="https://img.shields.io/badge/Modrinth-EN_%2B_RU-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Modrinth" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics">
+          <img src="https://img.shields.io/badge/CurseForge-v2.0-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Интерактивное 3D-отображение лежащих предметов, естественная физика падения, косметические эффекты и защита реактивов от деспавна.</p>
+      <p>Объёмные 3D-модели Item Display (<code>v2.0</code>, 1.20.5–26.3+): естественное падение, сохранение метаданных при частичном подборе и замок XS Lock Key (EN + RU).</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💥 COMPOUND #03: Explosion Item</h3>
       <p align="center">
+        <a href="https://github.com/X1miyaStudio/Explosion-Item">
+          <img src="https://img.shields.io/badge/GitHub-v2.0.0-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
+        </a>
         <a href="https://modrinth.com/datapack/explosion-item">
-          <img src="https://img.shields.io/badge/Modrinth-Compound_%2303-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Explosion Item" />
+          <img src="https://img.shields.io/badge/Modrinth-EN_%2B_RU-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Modrinth" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/explosion-item">
+          <img src="https://img.shields.io/badge/CurseForge-v2-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Нестабильные химические элементы: детонация выброшенных предметов, расчёт мощности взрыва от редкости и визуальные таймеры.</p>
+      <p>Нестабильные выброшенные предметы (<code>v2.0.0</code>, 1.21.11, EN + RU): нарастающее тиканье, визуальный таймер и детонация по завершении отсчёта или в воде.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔥 COMPOUND #04: Better Blast Furnace</h3>
       <p align="center">
+        <a href="https://github.com/X1miyaStudio/Better-Blast-Furnuce">
+          <img src="https://img.shields.io/badge/GitHub-Repo-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
+        </a>
         <a href="https://modrinth.com/datapack/better-blast-furnace">
-          <img src="https://img.shields.io/badge/Modrinth-Compound_%2304-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Better Blast Furnace" />
+          <img src="https://img.shields.io/badge/Modrinth-Download-%23062E1A.svg?style=flat-square&logo=modrinth&logoColor=00FF88" alt="Modrinth" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/better-blast-furnace-x1miyastudio">
+          <img src="https://img.shields.io/badge/CurseForge-Download-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Модернизированный термический реактор (печь): оптимизированная переплавка металлов, сплавов и минералов в выживании.</p>
+      <p>Модернизированный термический реактор: 46 логичных рецептов высокотемпературной переплавки металлов, сплавов и минералов для ванильного выживания.</p>
     </td>
   </tr>
   <tr>
@@ -97,19 +130,45 @@
       <h3 align="center">🔘 PROTOCOL #05: Secret Hidden Buttons</h3>
       <p align="center">
         <a href="https://github.com/X1miya/Secret-Hidden-Buttons">
-          <img src="https://img.shields.io/badge/GitHub-Protocol_%2305-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="Secret Buttons" />
+          <img src="https://img.shields.io/badge/GitHub-v2.2-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/worlds/secret-hidden-buttons">
+          <img src="https://img.shields.io/badge/CurseForge-Worlds-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge Worlds" />
+        </a>
+        <a href="https://www.planetminecraft.com/project/secret-hidden-buttons-1-20-4/">
+          <img src="https://img.shields.io/badge/PMC-Map-%23062E1A.svg?style=flat-square" alt="Planet Minecraft" />
+        </a>
+        <a href="https://minecraft-inside.ru/166663/">
+          <img src="https://img.shields.io/badge/MC_Inside-RU-%23062E1A.svg?style=flat-square" alt="Minecraft Inside" />
         </a>
       </p>
-      <p>Логический датапак для карты поиска секретных кнопок: таймеры, контрольные триггеры и системы верификации прохождения.</p>
+      <p>Приключенческая карта поиска скрытых кнопок (<code>v2.2</code>, Minecraft 1.21.11, EN + RU): 5 паков анимаций Animated Java, диалоги с NPC и механика подзорной трубы.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧩 PROTOCOL #06: Комбинация (Combination)</h3>
       <p align="center">
         <a href="https://github.com/X1miya/combination">
-          <img src="https://img.shields.io/badge/GitHub-Protocol_%2306-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="Combination" />
+          <img src="https://img.shields.io/badge/GitHub-v1.2.1-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/worlds/combination">
+          <img src="https://img.shields.io/badge/CurseForge-Worlds-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge Worlds" />
+        </a>
+        <a href="https://minecraft-inside.ru/maps/168088-kombinaciya.html">
+          <img src="https://img.shields.io/badge/MC_Inside-RU-%23062E1A.svg?style=flat-square" alt="Minecraft Inside" />
         </a>
       </p>
-      <p>Головоломка на базе командных блоков и скорборд-математики: переключение фаз и проверка правильности цепочки сигналов.</p>
+      <p>Логическая карта-головоломка на запоминание паттернов (<code>v1.2.1</code>, Minecraft 1.21.11, EN + RU): скорборд-математика, анимации раундов и секретные достижения.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🌀 PROTOCOL #07: Chemistry Teleport</h3>
+      <p align="center">
+        <a href="https://github.com/X1miya/chemistry_teleport">
+          <img src="https://img.shields.io/badge/GitHub-Protocol_%2307-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="Chemistry Teleport" />
+        </a>
+      </p>
+      <p align="center">Кинематографичный портал с покадровой VFX-анимацией затягивания (200 кадров) и звуковым дизайном для видео «День №7 ФИНАЛ».</p>
     </td>
   </tr>
 </table>
@@ -129,10 +188,11 @@
 
 #### Специализированные компоненты разработки:
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft_Java-2.0%2B_Datapacks-%23062E1A?style=for-the-badge&logo=minecraft&logoColor=00FF88" alt="Minecraft" />
-  <img src="https://img.shields.io/badge/Command_Blocks-Expert_Alchemist-%23062E1A?style=for-the-badge&logo=target&logoColor=00FF88" alt="Command Blocks" />
-  <img src="https://img.shields.io/badge/NBT_%26_JSON_Logic-Catalyst-%23062E1A?style=for-the-badge&logo=json&logoColor=00FF88" alt="JSON Logic" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-Neural_Flow-%23062E1A?style=for-the-badge&logo=telegram&logoColor=00FF88" alt="Bot API" />
+  <img src="https://img.shields.io/badge/Minecraft_Java-1.20.5_--_26.3%2B-%23062E1A.svg?style=for-the-badge&logo=minecraft&logoColor=00FF88" alt="Minecraft" />
+  <img src="https://img.shields.io/badge/Command_Blocks-Expert_Alchemist-%23062E1A.svg?style=for-the-badge&logo=target&logoColor=00FF88" alt="Command Blocks" />
+  <img src="https://img.shields.io/badge/NBT_%26_JSON_Logic-Catalyst-%23062E1A.svg?style=for-the-badge&logo=json&logoColor=00FF88" alt="JSON Logic" />
+  <img src="https://img.shields.io/badge/Animated_Java-3D_Rigging-%23062E1A.svg?style=for-the-badge" alt="Animated Java" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-Neural_Flow-%23062E1A.svg?style=for-the-badge&logo=telegram&logoColor=00FF88" alt="Bot API" />
 </p>
 
 </div>
@@ -171,6 +231,8 @@
   - ⚡ **«Короче говоря»**: динамичный формат о ситуациях в кубическом мире.
   - 🌌 **Science Life — Мультивселенная Наук**: сюжетный и концептуальный проект студии.
 - 🧪 **[Лаборатория Химии (Telegram)](https://t.me/Chemistry_LaboratoryX)**: бэкстейджи разработки, тестовые датапаки и живое общение с аудиторией.
+- ⚡ **X1miyaStudio** ([GitHub](https://github.com/X1miyaStudio) · [Telegram](https://t.me/X1miyaStudio) · [YouTube](https://www.youtube.com/@X1miyaStudio)): официальная студия релизов, датапаков и приключенческих карт.
+- 📦 **[Modrinth](https://modrinth.com/organization/x1miyastudio) · [CurseForge](https://www.curseforge.com/members/x1miyastudio/projects) · [Minecraft Inside](https://minecraft-inside.ru/user/X1miyaStudio)**: опубликованные сборки для EN и RU аудитории.
 - 💬 **[Discord комьюнити](https://discord.gg/heDhMS8sjR)**: чат разработчиков и игроков, анонсы и поддержка датапаков.
 
 </details>
