@@ -1,7 +1,14 @@
 <div align="center">
 
 <!-- Bio-Fluorescent Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:064E3B,70:059669,100:00FF88&height=260&section=header&text=X1miya%20%7C%20%D0%A5%D0%B8%D0%BC%D0%B8%D1%8F&fontSize=52&fontAlignY=36&desc=%E2%9A%97%EF%B8%8F%20Chemistry%20Laboratory%20%E2%80%A2%20Founder%20of%20X1miyaStudio&descAlignY=62&descAlign=50" width="100%" alt="X1miya Bio-Chemistry Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:064E3B,70:059669,100:00FF88&height=260&section=header&text=X1miya%20%7C%20Chemistry&fontSize=52&fontAlignY=36&desc=%E2%9A%97%EF%B8%8F%20Chemistry%20Laboratory%20%E2%80%A2%20Founder%20of%20X1miyaStudio&descAlignY=62&descAlign=50" width="100%" alt="X1miya Bio-Chemistry Banner" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-English-00FF88?style=flat-square" alt="English" />
+  <a href="https://github.com/X1miya/X1miya/blob/main/README_RU.md">
+    <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0D1117?style=flat-square&logo=googletranslate&logoColor=white" alt="Русская версия" />
+  </a>
+</p>
 
 <!-- Phosphor Terminal Typing Telemetry -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=%5B%2B%5D+Chemistry+is+the+best+science%21;%5B%2B%5D+Active+Reaction+%40+X1miyaStudio;%5B%2B%5D+Synthesizing+Advanced+Minecraft+Datapacks;%5B%2B%5D+Python+Automations+%26+Async+Bots;%5B%2B%5D+Lab+Broadcasts+on+YouTube+%40X1miya" alt="Typing Telemetry" />
@@ -38,6 +45,18 @@
 
 </div>
 
+<details>
+<summary><b>🇷🇺 Читать профиль на русском прямо здесь (или <a href="https://github.com/X1miya/X1miya/blob/main/README_RU.md">открыть полную русскую версию</a>)</b></summary>
+
+<br/>
+
+Привет! Я **X1miya (Химия)** — основатель, системный архитектор и разработчик независимой студии [**X1miyaStudio**](https://github.com/X1miyaStudio).
+Создаю ванильные датапаки (`1.20.5–26.3+`), приключенческие карты (`Secret Hidden Buttons`, `Комбинация`), Python-ботов и научно-фантастическую вселенную *Science Life — Мультивселенная Наук*.
+
+Полный русский профиль: [**README_RU.md**](https://github.com/X1miya/X1miya/blob/main/README_RU.md)
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
 
 ### 🧪 Reactor Console // Operator Identity
@@ -46,19 +65,19 @@
 ┌────────────────────────────────────────────────────────────────────────┐
 │  🧪 [LABORATORY_CORE_v3.0] :: BIO-CHEMICAL TERMINAL                    │
 ├────────────────────────────────────────────────────────────────────────┤
-│  OPERATOR    : X1miya (Химия)                                          │
+│  OPERATOR    : X1miya (Chemistry)                                      │
 │  FACILITY    : X1miyaStudio ⚡                                          │
 │  CREED       : "Chemistry is the best science!" ⚗️                      │
 │  REAGENTS    : [Minecraft 1.20.5–26.3+, NBT/Components, Python 3.12]   │
 │  SYNTHESIS   : [Lactose v2, Visual Drops v2, Explosion Item v2, Maps]  │
-│  UNIVERSE    : X1miyaStudio · Science Life — Мультивселенная Наук 🌌   │
+│  UNIVERSE    : X1miyaStudio · Science Life — Multiverse of Sciences 🌌 │
 │  STATUS      : 🟢 REACTION STABLE // EN+RU MODRINTH & CURSEFORGE LIVE  │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
 
-### ⚗️ Активные соединения и проекты / Synthesized Projects
+### ⚗️ Synthesized Projects
 
 <table>
   <tr>
@@ -75,10 +94,10 @@
           <img src="https://img.shields.io/badge/CurseForge-v2.0.1-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Система непереносимости лактозы (<code>v2.0.1</code>, 1.20.5–26.3+ / legacy 1.16.5–1.20.4): физиологические реакции, адаптация, безлактозный крафт и ветка достижений (EN + RU).</p>
+      <p>Lactose survival metabolism system (<code>v2.0.1</code>, 1.20.5–26.3+ / legacy 1.16.5–1.20.4): per-player physiological reactions, adaptation, lactose-free recipes, and custom advancements (EN + RU).</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">✨ COMPOUND #02: Visual Drops & Cosmetics</h3>
+      <h3 align="center">✨ COMPOUND #02: Visual Drops &amp; Cosmetics</h3>
       <p align="center">
         <a href="https://github.com/X1miyaStudio/Visual-Drops-and-Cosmetics">
           <img src="https://img.shields.io/badge/GitHub-Repo-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
@@ -90,7 +109,7 @@
           <img src="https://img.shields.io/badge/CurseForge-v2.0-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Объёмные 3D-модели Item Display (<code>v2.0</code>, 1.20.5–26.3+): естественное падение, сохранение метаданных при частичном подборе и замок XS Lock Key (EN + RU).</p>
+      <p>Grounded 3D <i>Item Display</i> drop physics (<code>v2.0</code>, 1.20.5–26.3+): natural surface placement, metadata preservation on partial pickup, and XS Lock Key protection (EN + RU).</p>
     </td>
   </tr>
   <tr>
@@ -107,7 +126,7 @@
           <img src="https://img.shields.io/badge/CurseForge-v2-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Нестабильные выброшенные предметы (<code>v2.0.0</code>, 1.21.11, EN + RU): нарастающее тиканье, визуальный таймер и детонация по завершении отсчёта или в воде.</p>
+      <p>Unstable dropped items (<code>v2.0.0</code>, 1.21.11, EN + RU): accelerating fuse ticks, value-scaled explosions up to power 500, meteor fields, and crater debris protection.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🔥 COMPOUND #04: Better Blast Furnace</h3>
@@ -122,7 +141,7 @@
           <img src="https://img.shields.io/badge/CurseForge-Download-%23062E1A.svg?style=flat-square&logo=curseforge&logoColor=00FF88" alt="CurseForge" />
         </a>
       </p>
-      <p>Модернизированный термический реактор: 46 логичных рецептов высокотемпературной переплавки металлов, сплавов и минералов для ванильного выживания.</p>
+      <p>Upgraded thermal reactor: 47 consistent high-temperature smelting recipes for stone, alloys, glass, terracotta, and equipment recycling in vanilla survival.</p>
     </td>
   </tr>
   <tr>
@@ -142,10 +161,10 @@
           <img src="https://img.shields.io/badge/MC_Inside-RU-%23062E1A.svg?style=flat-square" alt="Minecraft Inside" />
         </a>
       </p>
-      <p>Приключенческая карта поиска скрытых кнопок (<code>v2.2</code>, Minecraft 1.21.11, EN + RU): 5 паков анимаций Animated Java, диалоги с NPC и механика подзорной трубы.</p>
+      <p>Adventure Find-the-Button map (<code>v2.2</code>, Minecraft 1.21.11, EN + RU): 5 <i>Animated Java</i> animation packs, interactive NPC dialogues, and custom spyglass mechanics.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧩 PROTOCOL #06: Комбинация (Combination)</h3>
+      <h3 align="center">🧩 PROTOCOL #06: Combination</h3>
       <p align="center">
         <a href="https://github.com/X1miya/combination">
           <img src="https://img.shields.io/badge/GitHub-v1.2.1-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="GitHub" />
@@ -157,7 +176,7 @@
           <img src="https://img.shields.io/badge/MC_Inside-RU-%23062E1A.svg?style=flat-square" alt="Minecraft Inside" />
         </a>
       </p>
-      <p>Логическая карта-головоломка на запоминание паттернов (<code>v1.2.1</code>, Minecraft 1.21.11, EN + RU): скорборд-математика, анимации раундов и секретные достижения.</p>
+      <p>Pattern-memory puzzle map (<code>v1.2.1</code>, Minecraft 1.21.11, EN + RU): scoreboard mathematics, round animations, and secret advancements.</p>
     </td>
   </tr>
   <tr>
@@ -168,25 +187,25 @@
           <img src="https://img.shields.io/badge/GitHub-Protocol_%2307-%23062E1A.svg?style=flat-square&logo=github&logoColor=00FF88" alt="Chemistry Teleport" />
         </a>
       </p>
-      <p align="center">Кинематографичный портал с покадровой VFX-анимацией затягивания (200 кадров) и звуковым дизайном для видео «День №7 ФИНАЛ».</p>
+      <p align="center">Cinematic portal datapack featuring a 200-frame VFX vortex pull animation and sound design for the "Day #7 FINALE" video.</p>
     </td>
   </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
 
-### 🔬 Лабораторный инвентарь / Tech Stack & Reagents
+### 🔬 Tech Stack &amp; Reagents
 
 <div align="center">
 
-#### Базовые инструменты и среда:
+#### Core Tools &amp; Environment:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,bash,regex,markdown&theme=dark" alt="Tech Skills" />
 </a>
 
 <br/><br/>
 
-#### Специализированные компоненты разработки:
+#### Specialized Development Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft_Java-1.20.5_--_26.3%2B-%23062E1A.svg?style=for-the-badge&logo=minecraft&logoColor=00FF88" alt="Minecraft" />
   <img src="https://img.shields.io/badge/Command_Blocks-Expert_Alchemist-%23062E1A.svg?style=for-the-badge&logo=target&logoColor=00FF88" alt="Command Blocks" />
@@ -199,7 +218,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
 
-### 📊 Телеметрия реактора / Laboratory Telemetry
+### 📊 Laboratory Telemetry
 
 <div align="center">
 
@@ -221,19 +240,19 @@
 <br/>
 
 <details>
-<summary><b>🎬 Полевые исследования и трансляции (нажмите, чтобы развернуть лабораторию)</b></summary>
+<summary><b>🎬 Field Research &amp; Broadcasts (click to expand laboratory channels)</b></summary>
 
 <br/>
 
-- 📺 **YouTube-канал [@X1miya](https://www.youtube.com/@X1miya)**:
-  - 🎓 **«КБ с нуля»**: пошаговое руководство по созданию сложных механик через командные блоки.
-  - ⚙️ **Редстоун-инженерия**: схемы, компактные триггеры, фермы и логические вентили.
-  - ⚡ **«Короче говоря»**: динамичный формат о ситуациях в кубическом мире.
-  - 🌌 **Science Life — Мультивселенная Наук**: сюжетный и концептуальный проект студии.
-- 🧪 **[Лаборатория Химии (Telegram)](https://t.me/Chemistry_LaboratoryX)**: бэкстейджи разработки, тестовые датапаки и живое общение с аудиторией.
-- ⚡ **X1miyaStudio** ([GitHub](https://github.com/X1miyaStudio) · [Telegram](https://t.me/X1miyaStudio) · [YouTube](https://www.youtube.com/@X1miyaStudio)): официальная студия релизов, датапаков и приключенческих карт.
-- 📦 **[Modrinth](https://modrinth.com/organization/x1miyastudio) · [CurseForge](https://www.curseforge.com/members/x1miyastudio/projects) · [Minecraft Inside](https://minecraft-inside.ru/user/X1miyaStudio)**: опубликованные сборки для EN и RU аудитории.
-- 💬 **[Discord комьюнити](https://discord.gg/heDhMS8sjR)**: чат разработчиков и игроков, анонсы и поддержка датапаков.
+- 📺 **YouTube [@X1miya](https://www.youtube.com/@X1miya)**:
+  - 🎓 **"Command Blocks from Scratch"**: step-by-step guides on building complex vanilla mechanics.
+  - ⚙️ **Redstone Engineering**: contraptions, compact triggers, farms, and logic gates.
+  - ⚡ **"In a Nutshell"**: fast-paced comedy & gameplay shorts.
+  - 🌌 **Science Life — Multiverse of Sciences**: story and conceptual studio universe.
+- 🧪 **[Chemistry Laboratory (Telegram)](https://t.me/Chemistry_LaboratoryX)**: dev behind-the-scenes, test datapacks, and community chat.
+- ⚡ **X1miyaStudio** ([GitHub](https://github.com/X1miyaStudio) · [Telegram](https://t.me/X1miyaStudio) · [YouTube](https://www.youtube.com/@X1miyaStudio)): official studio for datapacks, Bedrock addons, and adventure maps.
+- 📦 **[Modrinth](https://modrinth.com/organization/x1miyastudio) · [CurseForge](https://www.curseforge.com/members/x1miyastudio/projects) · [Planet Minecraft](https://www.planetminecraft.com/member/x1miyastudio/) · [Minecraft Inside](https://minecraft-inside.ru/user/X1miyaStudio)**: published EN + RU builds.
+- 💬 **[Discord Community](https://discord.gg/heDhMS8sjR)**: developer & player chat, announcements, and support.
 
 </details>
 
